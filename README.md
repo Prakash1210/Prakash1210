@@ -47,6 +47,6 @@ Here are some of the projects I've worked on:
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Prakash B "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prakash B " /></a><a href="https://ko-fi.com/Prakash"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Prakash" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Prakash B "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prakash B " /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash1210&show_icons=true&locale=en&layout=compact" alt="prakash1210" /></p>
