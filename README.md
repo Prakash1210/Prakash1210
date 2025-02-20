@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash1210" alt="prakash1210" /></a> </p>
 
-- 🌱 I’m currently learning **Python , React**
+- 🌱 I’m currently learning **Figma**
 
 - 📝 I regularly write articles on [https://wordpress.com/view/prakash11209.wordpress.com](https://wordpress.com/view/prakash11209.wordpress.com)
 
