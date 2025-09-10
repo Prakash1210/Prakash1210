@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash1210" alt="prakash1210" /></a> </p>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [https://wordpress.com/view/prakash11209.wordpress.com](https://wordpress.com/view/prakash11209.wordpress.com)
 
-- 💬 Ask me about **react , Java script , Python , C , Wordpress**
+- 💬 Ask me about **react , Java script , Python , Machine Learning and AI , Wordpress**
 
 - 📫 How to reach me **prakash4258b@gmail.com**
 
-- ⚡ Fun fact **I think iam Funny**
+
 - ## 🛠️ Skills
 Here are some of the technologies and tools I work with:
 
@@ -38,6 +38,18 @@ Here are some of the projects I've worked on:
 ### [Creative Agency](https://github.com/Prakash1210/agency)
 **Description**: This is a Project which can have a website for agency.  
 **Tech Stack**: HTML , CSS , Javascript , Reactjs .
+
+### [Document Extractor](https://github.com/prakash4258/Document_Extraction_ML)
+**Description**: This Document extractor can extract the content in a key-value-pair structure , it can extract all types of files (PNG,JPG,PDF).  
+**Tech Stack**: HTML , CSS , Javascript , React js (Front-End) , Python , Sql lite (Back-End) , OCR Engine (Tesseract)
+
+### [Object detection using YOLO Model](https://github.com/prakash4258/Object_Detector)
+**Description**: This is a Project can specify the object and describes the object using recognition.  
+**Tech Stack**: Python , YOLO(Model)
+
+### [captcha Generator](https://github.com/prakash4258/Captcha-Extractor)
+**Description**: Captcha Extractor can be used to extract the captcha asked in the website for authentication , it can extract the high noisy captcha with 89% of accuracy.  
+**Tech Stack**: Python , Easyocr (OCR engine)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
