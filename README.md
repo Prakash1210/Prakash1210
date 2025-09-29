@@ -77,8 +77,7 @@ Here are some of the projects I've worked on:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash1210&show_icons=true&locale=en&layout=compact" alt="prakash1210" /></p>
 
-## Blog posts
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash1210&show_icons=true&locale=en" alt="prakash1210" /></p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash1210&" alt="prakash1210" /></p>
 
