@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts via action
+        uses: Prakash/blog-post-workflow@master
+        with:
+          feed_list: 'https://wordpress.com/home/prakash11209.wordpress.com'
