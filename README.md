@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Django—Web Framework](https://prakash11209.wordpress.com/2025/09/29/learning-django-web-framework/)
+- [Learning Django – Web Framework](https://prakash11209.wordpress.com/2025/09/29/django-web-framework/)
+- [Learning Replit](https://prakash11209.wordpress.com/2025/09/25/learning-replit/)
+- [Mastering Simple Programs](https://prakash11209.wordpress.com/2025/09/13/mastering-simple-programs-9/)
+- [MASTERING MACHINE LEARNING CONCEPTS](https://prakash11209.wordpress.com/2025/09/11/mastering-machine-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
