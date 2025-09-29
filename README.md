@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prakash1210.github.io/My-Portfolio/](https://prakash1210.github.io/My-Portfolio/)
 
-- 📝 I regularly write articles on [https://prakash11209.wordpress.com](https://prakash11209.wordpress.com)
+- 📝 I regularly write blogs in [https://prakash11209.wordpress.com](https://prakash11209.wordpress.com)
 
 - 💬 Ask me about **Front End , Python , C**
 
