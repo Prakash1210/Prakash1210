@@ -19,4 +19,4 @@ jobs:
       - name: Update README with latest blog posts via action
         uses: Prakash/blog-post-workflow@master
         with:
-          feed_list: 'https://wordpress.com/home/prakash11209.wordpress.com'
+          feed_list: 'https://prakash11209.wordpress.com/feed/'
