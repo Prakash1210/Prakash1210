@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering with LLama 2 &amp; 3](https://prakash11209.wordpress.com/2025/10/10/prompt-engineering-with-llama-2-3/)
 - [Building a Systems with ChatGPT API](https://prakash11209.wordpress.com/2025/10/08/building-a-systems-with-chatgpt-api/)
 - [Learning Django—Web Framework](https://prakash11209.wordpress.com/2025/09/29/learning-django-web-framework/)
 - [Learning Django – Web Framework](https://prakash11209.wordpress.com/2025/09/29/django-web-framework/)
 - [Learning Replit](https://prakash11209.wordpress.com/2025/09/25/learning-replit/)
-- [Mastering Simple Programs](https://prakash11209.wordpress.com/2025/09/13/mastering-simple-programs-9/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
