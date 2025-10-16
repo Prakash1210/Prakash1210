@@ -48,22 +48,22 @@ Here are some of the projects I've worked on:
 
 ### [Weather App](https://github.com/Prakash1210/Weather-App)
 **Description**:  This Project is get real-time weather information for locations around the world.  
-**Tech Stack**: HTML , CSS , Javascript .
+**Tech Stack**: HTML, CSS, JavaScript.
 
 ### [Creative Agency](https://github.com/Prakash1210/agency)
 **Description**: This is a Project which can have a website for agency.  
-**Tech Stack**: HTML , CSS , Javascript , Reactjs .
+**Tech Stack**: HTML, CSS, Javascript, Reactjs .
 
 ### [Document Extractor](https://github.com/prakash4258/Document_Extraction_ML)
 **Description**: This Document extractor can extract the content in a key-value-pair structure , it can extract all types of files (PNG,JPG,PDF).  
-**Tech Stack**: HTML , CSS , Javascript , React js (Front-End) , Python , Sql lite (Back-End) , OCR Engine (Tesseract)
+**Tech Stack**: HTML, CSS, Javascript, React js (Front-End), Python, Sql lite (Back-End), OCR Engine (Tesseract)
 
 ### [Object detection using YOLO Model](https://github.com/prakash4258/Object_Detector)
 **Description**: This is a Project can specify the object and describes the object using recognition.  
 **Tech Stack**: Python , YOLO(Model)
 
 ### [captcha Generator](https://github.com/prakash4258/Captcha-Extractor)
-**Description**: Captcha Extractor can be used to extract the captcha asked in the website for authentication , it can extract the high noisy captcha with 89% of accuracy.  
+**Description**: Captcha Extractor can be used to extract the captcha asked in the website for authentication, it can extract the high noisy captcha with 89% of accuracy.  
 **Tech Stack**: Python , Easyocr (OCR engine)
 
 <h3 align="left">Connect with me:</h3>
@@ -79,5 +79,4 @@ Here are some of the projects I've worked on:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash1210&show_icons=true&locale=en" alt="prakash1210" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash1210&" alt="prakash1210" /></p>
 
